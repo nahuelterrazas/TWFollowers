@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  GHFollowers
+//  TWFollowers
 //
 //  Created by Nahuel Terrazas on 29/01/2023.
 //
